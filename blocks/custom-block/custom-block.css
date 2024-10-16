@@ -1,0 +1,4 @@
+.custom-block > div{
+    display: inline-block;
+    width: 33%;
+}

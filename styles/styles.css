@@ -260,3 +260,14 @@ main .section.light-grey {
   margin: 0;
   padding: 40px 0;
 }
+.section.yellow{
+  background-color: yellow;
+  margin: 0px;
+}
+.section.darkgreen{
+  background-color: darkgreen;
+  margin: 0px;
+}
+.section.yellow div, .section.darkgreen div{
+  padding: 30px 20px;
+}
