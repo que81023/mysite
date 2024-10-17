@@ -1,0 +1,7 @@
+.custom-icon a {
+    line-height: 25px;
+}
+  
+.custom-icon a::before {
+    content: "🔎 ";
+}

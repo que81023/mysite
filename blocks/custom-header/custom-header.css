@@ -1,0 +1,9 @@
+main > .section{
+    display: flex;
+}
+main > .section:first-of-type {
+    margin-top: 0;
+}
+.custom-header-logo div p, p{
+    color: red;
+}
